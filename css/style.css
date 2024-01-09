@@ -188,6 +188,13 @@ header{
     
 }
 
+.third-section{
+    height: 500px;
+    background-color: cornflowerblue;
+    width: 100%;
+}
+
+
 
 
 
@@ -244,7 +251,8 @@ header{
     .productive-left .pera{
         text-align: left;
     }
-   
+
+    
   
 
     
